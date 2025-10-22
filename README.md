@@ -1,4 +1,4 @@
-![imphsher](imphsher.png)
+![imphsher](imphisher.png)
 
 # GameConnect — Phishing Simulation & Social-Engineering Assessment Tool
 
